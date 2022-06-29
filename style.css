@@ -1,0 +1,38 @@
+.container{
+    margin-top: 100px;
+}
+
+.left{
+    width:50%; 
+    float: left;
+}
+
+.right{
+    width:50%;  
+    float: right;
+}
+img.filltable{
+    width: 100%;
+    height: 450px;
+}
+div img#logo{
+   position:fixed;
+   width:120px;
+   height: 75px;;
+   margin-top:0px;
+   margin-left:600px;
+   margin-bottom: 50px;
+}
+
+div img.pant {
+    width: 40%;
+    height: 250px;
+}
+div img.hatt {
+    width: 10%;
+    height: 50px;
+}
+img.shirt {
+    width: 38%;
+    height: 170px;
+}
