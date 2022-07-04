@@ -37,6 +37,6 @@ img.shirt {
     height: 170px;
 }
 img.face {
-    width: 10%;
+    width: 10% !imprtant;
     height: 70px;
 }
