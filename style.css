@@ -12,8 +12,9 @@
     float: right;
 }
 img.filltable{
-    width: 100%;
+    width: 40%;
     height: 450px;
+    margin-left: 25%;
 }
 div img#logo{
    position:fixed;
@@ -24,19 +25,23 @@ div img#logo{
    margin-bottom: 50px;
 }
 
-div img.pant {
-    width: 40%;
-    height: 250px;
+div img.pants {
+    /* width: 150px; */
+    height: 160px;
 }
 div img.hatt {
     width: 10%;
     height: 50px;
 }
-img.shirt {
-    width: 38%;
-    height: 170px;
-}
 img.face {
-    width: 10% !imprtant;
-    height: 70px;
+    width: 26%;
+    height: 150px;
+}
+img.shoe {
+    width: 10%;
+    height: 40px;
+}
+img.shirt {
+    width: 26%;
+    height: 140px;
 }
